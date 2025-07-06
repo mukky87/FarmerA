@@ -5,4 +5,4 @@ pandas
 numpy
 matplotlib
 seaborn
-liner regression
+linear regression
